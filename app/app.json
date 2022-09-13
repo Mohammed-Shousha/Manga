@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Manga",
+    "slug": "Managa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Data/images/icons/icon.png",
+    "splash": {
+      "image": "./Data/images/icons/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#eff7e1"
+    },
+    "scheme":"recipesapp",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./Data/images/icons/adaptive-icon.png",
+        "backgroundColor": "#eff7e1"
+      },
+      "package": "com.mshousha.recipesapp",
+      "config": {
+         "googleSignIn": {
+            "apiKey":"AIzaSyB75OSQ1Ryeg9o8SLvdn06NYAsoMI2ntbc",
+            "certificateHash":"21B1AF37A4653FFEB13884C07BB74DA0AACE7C6F"
+         }
+      }
+
+    },
+    "web": {
+      "build": {
+        "babel": {
+          "include": [
+            "react-router-native"
+          ]
+        }
+      }
+    }
+  }
+}
