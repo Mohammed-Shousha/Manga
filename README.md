@@ -1,9 +1,9 @@
 # Manga 🥭
 _**An easy-to-use recipes app that offer the user a variety of delicious recipes to choose from.**_
 
-<img src="https://res.cloudinary.com/dn8thrc9l/image/upload/r_30/v1663027262/icon_o2ctfu.png" width='350px' height='350px'>
+<img src="https://res.cloudinary.com/dn8thrc9l/image/upload/r_30/v1663174500/icon_fn0edn.png" width='350px' height='350px'>
 
-[Manga apk](https://expo.dev/artifacts/eas/tXN92PSgadx27omSjHiQ3n.apk)
+## [Manga apk](https://expo.dev/artifacts/eas/9HF1a9JJk2cKLYFz66ncaA.apk)
 
 ## Technologies Used:
 - React Native (Expo)
@@ -33,4 +33,5 @@ width='330px'>
 
 <img src="https://res.cloudinary.com/dn8thrc9l/image/upload/v1663028298/9_tg2hbr.jpg" 
 width='330px'>
-<img src="https://res.cloudinary.com/dn8thrc9l/image/upload/v1663028302/10_srkmmf.jpg" width='330px'>
+<img src="https://res.cloudinary.com/dn8thrc9l/image/upload/v1663028302/10_srkmmf.jpg" 
+width='330px'>
