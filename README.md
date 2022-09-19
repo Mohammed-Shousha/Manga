@@ -8,12 +8,12 @@ _**An easy-to-use recipes app that offer the user a variety of delicious recipes
 ## Technologies Used:
 - React Native (Expo)
 - styled-components
-- React Context
 - React Navigation
-- Spoonacular API
 - Cloudinary
-- GraphQL
+- Spoonacular API
+- Express (Node.js)
 - Apollo
+- GraphQL
 - PostgreSQL
 - Heroku
 
